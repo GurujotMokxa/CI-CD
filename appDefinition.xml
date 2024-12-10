@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>ci_cd_pipeline</id>
+   <version></version>
+   <name>CI/CD Pipeline</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
