@@ -1,5 +1,4 @@
 <appDefinition>
-   <appId>ci_cd_dev</appId>
    <id>ci_cd_dev</id>
    <version></version>
    <name>CD/CD Dev</name>
