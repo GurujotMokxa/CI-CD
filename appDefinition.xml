@@ -1,0 +1,16 @@
+<appDefinition>
+   <appId>ci_cd_dev</appId>
+   <id>ci_cd_dev</id>
+   <version></version>
+   <name>CD/CD Dev</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+   <license>mqfg1pt0ds92e7RkBWBft4hM3oqfuuujW6aPjFbp1/hR/MG7MRXbl8IDbvhpKtzI</license>
+</appDefinition>
