@@ -1,5 +1,4 @@
 <appDefinition>
-   <appId>ci_cd_pipeline</appId>
    <id>ci_cd_pipeline</id>
    <version></version>
    <name>CI/CD Pipeline</name>
